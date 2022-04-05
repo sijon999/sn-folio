@@ -1,0 +1,44 @@
+.header {
+
+    padding: 10px;
+    background: rgb(78, 55, 98);
+    display: flex;
+    text-align: center;
+    text-decoration: none;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav ul li {
+    
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    display: inline-flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    border:1px solid rgb(83, 73, 92)
+}
+.aside {
+    width: 30%;
+    height: 100vh;
+    box-sizing: border-box;
+    padding: 10px;
+    background: rgb(134, 103, 161);
+    text-align: center;
+    text-decoration: none;
+    align-items: center;
+   justify-content: space-between; 
+}
+
+.nav-aside ul li {
+    
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    border:1px solid rgb(83, 73, 92)
+}

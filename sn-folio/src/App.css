@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Palette+Mosaic&family=Roboto+Slab:wght@200;300;400;500;800;900&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: Roboto Slab, Palette Mosaic, PT Serif;
+}
